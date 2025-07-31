@@ -39,7 +39,7 @@ function App() {
             <h1 className="text-xl font-semibold text-gray-800">Aruna</h1>
       </div>
       
-      <nav>
+      <nav className="[&_a:text-sm flex gap-3">
         <a href="#" className="hover:text-green-600">Contact Us</a>
         <a href="#" className="hover:text-green-600">Book a Call</a>
       </nav>
